@@ -25,15 +25,14 @@ A simple web application that converts currencies using a live exchange rate API
 
 # 📸 Preview
 
-(Add a screenshot or GIF of your project here)
+<img width="1919" height="863" alt="image" src="https://github.com/user-attachments/assets/bc844487-2ca8-4ce1-9cef-8b7f9a5984fa" />
+
 
 ---
 
 # 🔗 Live Demo
 
-(Add your deployed link here if available)  
-Example:  
-https://your-username.github.io/currency-converter/
+https://currencyconverterapibassed.netlify.app/
 
 ---
 
