@@ -18,7 +18,7 @@ A simple web application that converts currencies using a live exchange rate API
 - CSS3  
 - JavaScript (Vanilla JS)  
 - Exchange Rate API (Currency Data) - `https://hexarate.paikama.co/api/rates/usd/bdt/latest`
-- Flag API - 
+- Flag API - `https://flagsapi.com/BD/shiny/64.png`
 
 ---
 
