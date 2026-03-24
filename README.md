@@ -70,6 +70,23 @@ currency-converter/
 
 ---
 
+# 📚 What I Learned
+
+- How to work with external APIs using JavaScript (fetch/async-await)  
+- Handling JSON data and updating the DOM dynamically  
+- Mapping currency codes to country codes for flag display  
+- Improving UI with dynamic data (flags, converted values)  
+- Writing cleaner and structured JavaScript code  
+
+---
+
+# ⚠️ Challenges I Faced
+
+- Understanding API response structure (initial confusion with JSON data)    
+- Managing asynchronous operations (fetch delays, errors)
+- 
+---
+
 # 🎯 Future Improvements
 
 - Add loading spinner while fetching data  
